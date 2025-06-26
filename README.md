@@ -10,13 +10,7 @@ A simple web application that analyzes any GitHub user's profile using the GitHu
   - Number of Public Repositories
   - Followers and Following count
 -  Smooth animations and modern UI
--  Fully responsive and deployed (add your live link)
-
-## Demo
-
-Click here to view the live demo-
-
-## Screenshot
+-  Fully responsive and deployed 
 
 
 ## Tech Stack
