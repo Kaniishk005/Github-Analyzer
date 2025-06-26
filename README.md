@@ -10,7 +10,11 @@ A simple web application that analyzes any GitHub user's profile using the GitHu
   - Number of Public Repositories
   - Followers and Following count
 -  Smooth animations and modern UI
--  Fully responsive and deployed 
+-  Fully responsive and deployed
+
+## 💻 Demo
+
+Click here to view the live demo- https://githubprofileanalyzer.vercel.app/
 
 
 ## Tech Stack
